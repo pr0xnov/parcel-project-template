@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://pr0xnov.github.io/parcel-project-template",
   "scripts": {
-    "dev": "parcel src/indexn.html",
+    "dev": "parcel src/index.html",
     "build": "parcel build src/index.html --public-url /parcel-project-template/"
   },
   "repository": {
